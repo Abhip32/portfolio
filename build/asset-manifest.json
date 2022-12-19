@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.330ef448.css",
+    "main.js": "/portfolio/static/js/main.21102dce.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/portfolio/static/media/blog.c2a7124c55cff893a325.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.4b19ad30d4851763d439.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.44ee68c14e32444e23c2.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.1dba82d2cda599d21e45.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.8745a6e65e198f63c515.png",
+    "static/media/Abhishek Patil.pdf": "/portfolio/static/media/Abhishek Patil.74f24a877160230c3495.pdf",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.766edeff6e87fc2b67b4.png",
+    "static/media/pic.png": "/portfolio/static/media/pic.8b000aac88c1c609e740.png",
+    "static/media/random.png": "/portfolio/static/media/random.2495094554beb6049d27.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.330ef448.css.map": "/portfolio/static/css/main.330ef448.css.map",
+    "main.21102dce.js.map": "/portfolio/static/js/main.21102dce.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330ef448.css",
+    "static/js/main.21102dce.js"
+  ]
+}
