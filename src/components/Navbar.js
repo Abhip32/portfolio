@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <h2 style={{color:' #c770f0',fontWeight:'bolder'}}>A.Patil</h2>
+          <h2 className="purple">A.Patil</h2>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

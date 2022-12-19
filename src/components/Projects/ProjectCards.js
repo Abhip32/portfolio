@@ -2,9 +2,11 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
-import { BsGithub } from "react-icons/bs";
+import { BsGithub,BsImages } from "react-icons/bs";
+import {Routes, Route, useNavigate} from 'react-router-dom';
 
 function ProjectCards(props) {
+  const navigate = useNavigate();
   return (
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
@@ -31,6 +33,16 @@ function ProjectCards(props) {
           >
             <CgWebsite /> &nbsp;
             {"Demo"}
+          </Button>
+        )}
+        {props.images && (
+          <Button
+            variant="primary"
+            onClick={() =>  navigate("/ProjectInfo", {state:props.st})}
+            style={{ marginLeft: "10px" }}
+          >
+            <BsImages /> &nbsp;
+            {"Images"}
           </Button>
         )}
       </Card.Body>
