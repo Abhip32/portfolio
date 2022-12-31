@@ -741,3 +741,12 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+#fill-tab-example-tab-profile{
+  color: #623686;
+  font-weight: bolder;
+}
+
+#fill-tab-example-tab-home{
+  color: #623686;
+  font-weight: bolder;
+}

@@ -20,6 +20,8 @@ import AIML from '../../Assets/Certificates/AIML.jpg'
 import JavaCourseEra from '../../Assets/Certificates/Java CourseEra.jpg'
 import JavaOracle from '../../Assets/Certificates/Java Oracle.jpg'
 import Marpu from '../../Assets/Certificates/Marpu Internship.jpg'
+import Tab from 'react-bootstrap/Tab';
+import Tabs from 'react-bootstrap/Tabs';
 
 
 function Home2() {
@@ -77,6 +79,15 @@ function Home2() {
         <br/>
         <Col md={12} className="home-about-social">
             <h1>Certificates of <span className="purple">Courses</span>  &  <span className="purple">Internships</span> </h1>
+
+            <Tabs
+            defaultActiveKey="home"
+            id="fill-tab-example"
+            className="mb-3"
+            fill
+          >
+            <Tab eventKey="home" title="Courses">
+                
             <Carousel variant="dark" style={{width:"60vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple",color:"black"}}>
                 <Carousel.Item>
                   <img
@@ -157,7 +168,10 @@ function Home2() {
                     alt="First slide"
                   />
               </Carousel.Item>
-
+         </Carousel>
+            </Tab>
+            <Tab eventKey="profile" title="Internships">
+              <Carousel variant="dark" style={{width:"60vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple",color:"black"}}>
               <Carousel.Item>
                   <img
                     className="d-block w-100"
@@ -165,7 +179,10 @@ function Home2() {
                     alt="First slide"
                   />
               </Carousel.Item>
-    </Carousel>
+              </Carousel>
+            </Tab>
+          </Tabs>
+
          
           </Col>
 
