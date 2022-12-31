@@ -7,9 +7,10 @@ function ProjectInfo(state) {
   console.log(location.state)
  
   return (
-    <div style={{marginTop:"6%",padding:"1%"}}>
+    <div style={{marginTop:"150px",padding:"1%"}}>
     <h1 className='purple' style={{marginLeft:"auto",marginRight:"auto",color:"white"}}><u>{location.state.name} Preview</u></h1>
-    <Carousel style={{width:"60vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple"}}>
+    <br/>
+    <Carousel style={{width:"70vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple"}}>
     {
             location.state.imgs.map (content =>(
                 <Carousel.Item>
@@ -22,7 +23,8 @@ function ProjectInfo(state) {
             ))
           }
     </Carousel>
-    
+    <br/>
+    <br/>
     </div>
   )
 }
