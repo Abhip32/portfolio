@@ -121,7 +121,6 @@ function Projects() {
               title="CodeGeek"
               description="CodeGeek is a competitve coding platform like HackerRank. CodeGeek has been designed for coders as well as for recruiters. Users can practice various problems across 4 programming languages. It also allows a proctored certification test and based on candidates appeared results will be generated. As a particular user will solve problem in particular langauge, his rank and badge for that language will be assigned by the system."
               ghLink="https://github.com/Abhip32/Spotify-Clone"
-              demoLink="https://abhip32.github.io/Spotify-Clone/"
               images={true}
               imagesArray={"chatify"}
               st={{ name:"CodeGeek",imgs:codeGeek}}  
