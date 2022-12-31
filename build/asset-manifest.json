@@ -1,8 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.330ef448.css",
-    "main.js": "/portfolio/static/js/main.a213613b.js",
+    "main.js": "/portfolio/static/js/main.091871db.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/HackerRank Problem Solving(Basic).png": "/portfolio/static/media/HackerRank Problem Solving(Basic).fffa7ebb475b73a4a00d.png",
+    "static/media/HackerRank Python(Basic).png": "/portfolio/static/media/HackerRank Python(Basic).610a23ed4b363bd51e14.png",
+    "static/media/HackerRank JavaScript(Basic).png": "/portfolio/static/media/HackerRank JavaScript(Basic).bf20242c205e9ac73268.png",
+    "static/media/HackerRank React JS (Basic).png": "/portfolio/static/media/HackerRank React JS (Basic).ee64cb80311087eddb40.png",
+    "static/media/HackerRank SQL(Intermediate).png": "/portfolio/static/media/HackerRank SQL(Intermediate).ac7ee00f73fb0bd09d23.png",
+    "static/media/HackerRank Java(Basic).png": "/portfolio/static/media/HackerRank Java(Basic).5fca4c7238cf11b843be.png",
+    "static/media/HackerRank SQL(Basic).png": "/portfolio/static/media/HackerRank SQL(Basic).da750de9dbab9d44918b.png",
     "static/media/Netflix (1).png": "/portfolio/static/media/Netflix (1).bac33625ace1f0593d77.png",
     "static/media/blog.png": "/portfolio/static/media/blog.c2a7124c55cff893a325.png",
     "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.4b19ad30d4851763d439.png",
@@ -52,8 +59,10 @@
     "static/media/SC7.png": "/portfolio/static/media/SC7.53e048f7e81ab01970ed.png",
     "static/media/FunRento (15).png": "/portfolio/static/media/FunRento (15).128fe4e2582000f684f0.png",
     "static/media/SC23.png": "/portfolio/static/media/SC23.9dfd12a1ea3673c433a9.png",
+    "static/media/Marpu Internship.jpg": "/portfolio/static/media/Marpu Internship.59c4c18f0ca19e63900a.jpg",
     "static/media/SC5.png": "/portfolio/static/media/SC5.70141f5b62b4ed84ef05.png",
     "static/media/SC11.png": "/portfolio/static/media/SC11.a14977571163b41fd8d0.png",
+    "static/media/Java CourseEra.jpg": "/portfolio/static/media/Java CourseEra.10014209ae9e1f5a1a46.jpg",
     "static/media/FunRento (16).png": "/portfolio/static/media/FunRento (16).ad9dd8427b3f8140142c.png",
     "static/media/SC10.png": "/portfolio/static/media/SC10.150e74367ac130fb29dc.png",
     "static/media/SC19.png": "/portfolio/static/media/SC19.a6a7270a7cdaa5deb547.png",
@@ -61,7 +70,9 @@
     "static/media/SC1.png": "/portfolio/static/media/SC1.a45a582899c7c5eb0a1e.png",
     "static/media/SC17.png": "/portfolio/static/media/SC17.e5cb75d0df55c3d46183.png",
     "static/media/SC9.png": "/portfolio/static/media/SC9.73e18d8b936db5b69f4c.png",
+    "static/media/AIML.jpg": "/portfolio/static/media/AIML.0cbfffdbd9e1e0490773.jpg",
     "static/media/random.png": "/portfolio/static/media/random.2495094554beb6049d27.png",
+    "static/media/Java Oracle.jpg": "/portfolio/static/media/Java Oracle.2f86b52bfc56f87e9915.jpg",
     "static/media/CECS (19).png": "/portfolio/static/media/CECS (19).7a12d65dc12e07a9ba33.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/CECS (3).png": "/portfolio/static/media/CECS (3).7dea2b2f2b457ffdc76f.png",
@@ -98,11 +109,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.330ef448.css.map": "/portfolio/static/css/main.330ef448.css.map",
-    "main.a213613b.js.map": "/portfolio/static/js/main.a213613b.js.map",
+    "main.091871db.js.map": "/portfolio/static/js/main.091871db.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.330ef448.css",
-    "static/js/main.a213613b.js"
+    "static/js/main.091871db.js"
   ]
 }

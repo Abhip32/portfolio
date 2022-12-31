@@ -77,7 +77,7 @@ function Home2() {
         <br/>
         <Col md={12} className="home-about-social">
             <h1>Certificates of <span className="purple">Courses</span>  &  <span className="purple">Internships</span> </h1>
-            <Carousel style={{width:"60vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple"}}>
+            <Carousel variant="dark" style={{width:"60vw",marginLeft:"auto",marginRight:"auto",marginTop:"2%",marginBottom:"2%",boxShadow:"2px 2px 50px purple",color:"black"}}>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
